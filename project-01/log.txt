@@ -1,0 +1,24 @@
+
+1728017628889:::1 GET /api/users 
+
+1728017671477:::1 POST /api/users 
+
+1728017676224:::1 GET /api/users 
+
+1728017690957:::1 GET /api/users 
+
+1728017714552:::1 GET /api/users/66ff677e97e1625c3f37a7d9 
+
+1728017733892:::1 POST /api/users 
+
+1728017741935:::1 GET /api/users 
+
+1728017748310:::1 GET /api/users 
+
+1728017774432:::1 PATCH /api/users/66ff7545e723d33749bc9994 
+
+1728017778386:::1 GET /api/users 
+
+1728017785845:::1 DELETE /api/users/66ff7545e723d33749bc9994 
+
+1728017789352:::1 GET /api/users 

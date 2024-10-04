@@ -6,3 +6,9 @@ GET - /api/users/:id --> list the users with that id
 PATCH - /api/users/:id --> update the user with id
 POST - /api/users/ --> create new user
 DELETE - /api/users/:id --> delete the user with id
+
+
+//MongoDb
+Scheme -Define the structure
+    schema - model
+    using model we do CRUD operation
